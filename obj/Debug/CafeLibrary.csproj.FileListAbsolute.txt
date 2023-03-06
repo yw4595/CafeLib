@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\CafeLibrary\obj\Debug\CafeLibrary.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\CafeLibrary\obj\Debug\CafeLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\CafeLibrary\obj\Debug\CafeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\CafeLibrary\bin\Debug\CafeLibrary.exe.config
+C:\Users\Wiz\Desktop\IGME 201\CafeLibrary\bin\Debug\CafeLibrary.exe
+C:\Users\Wiz\Desktop\IGME 201\CafeLibrary\bin\Debug\CafeLibrary.pdb
+C:\Users\Wiz\Desktop\IGME 201\CafeLibrary\obj\Debug\CafeLibrary.exe
+C:\Users\Wiz\Desktop\IGME 201\CafeLibrary\obj\Debug\CafeLibrary.pdb
